@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>384978353693-aiqav4cq0b8c7ckv2vqk9s8n1cp5dfjr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.384978353693-aiqav4cq0b8c7ckv2vqk9s8n1cp5dfjr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5wFkZ7pkeiWXPJqyMY0OOfs2qPJgrzY8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>384978353693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrcadmin.in.McrCustomer</string>
+	<key>PROJECT_ID</key>
+	<string>mrcreact</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mrcreact.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:384978353693:ios:42e6cd06f71ea5c3c690f4</string>
+	<key>DATABASE_URL</key>
+	<string>https://mrcreact-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

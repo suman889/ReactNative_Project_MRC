@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "384978353693",
+    "firebase_url": "https://mrcreact-default-rtdb.firebaseio.com",
+    "project_id": "mrcreact",
+    "storage_bucket": "mrcreact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384978353693:android:a566f91d72b53fe6c690f4",
+        "android_client_info": {
+          "package_name": "com.mcrcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtK8V-bfP5EKNBr_NH80xUNmcDX1L4gtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384978353693-aiqav4cq0b8c7ckv2vqk9s8n1cp5dfjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrcadmin.in.McrCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384978353693:android:a1758302c32bf9a3c690f4",
+        "android_client_info": {
+          "package_name": "com.mrcdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtK8V-bfP5EKNBr_NH80xUNmcDX1L4gtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384978353693-aiqav4cq0b8c7ckv2vqk9s8n1cp5dfjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrcadmin.in.McrCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384978353693:android:bffb57f099aafc99c690f4",
+        "android_client_info": {
+          "package_name": "myrehabcare.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtK8V-bfP5EKNBr_NH80xUNmcDX1L4gtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384978353693-jrsarhg9vr56gfmvfm374eqeed6i4fmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384978353693-aiqav4cq0b8c7ckv2vqk9s8n1cp5dfjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrcadmin.in.McrCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
